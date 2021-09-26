@@ -1,0 +1,4 @@
+/**index.wxss**/
+Page{
+  background:rgb(199, 174, 174);
+}

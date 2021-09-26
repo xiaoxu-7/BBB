@@ -1,0 +1,11 @@
+<!--index.wxml-->
+<view class="box">
+<view class="title">随机数求和</view>
+<view>产生的随机数列为：</view>
+<view wx:for="{{rand}}">{{item}}</view>
+<button type="primary" bindtap='newRand'>产生新的随机数</button>
+</view>
+========================================================
+  姓名：徐昂
+  班级：电科19-2
+  学号：201923010227
